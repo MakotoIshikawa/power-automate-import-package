@@ -180,4 +180,4 @@ Agent Builder のスキルはプレビュー機能で、組織が Microsoft Fron
 
 ## 📄 ライセンス
 
-未定です。
+本プロジェクトは MIT License で公開しています。詳しくは [LICENSE](LICENSE) を参照してください。
