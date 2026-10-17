@@ -175,4 +175,4 @@ The structure of `SKILL.md` (keeping the main file thin, loading references only
 
 ## 📄 License
 
-To be determined.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
