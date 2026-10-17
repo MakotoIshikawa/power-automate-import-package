@@ -3,7 +3,7 @@ name: power-automate-import-package
 description: 自然言語で説明されたフローの要件とデータソースの情報から、Power Automate の非ソリューション フロー用インポート パッケージ (.zip) を作成する。要件が曖昧な場合は推測で作らず、選択肢を付けて質問する。生成するフローは、元のアクション名を残した命名とメモにより、作成者以外でも意図を理解できる構成にする。Creates Power Automate import packages from natural-language requirements.
 compatibility: Python 3 を実行して zip ファイルを出力できる環境が必要。ソリューション形式と子フローは対象外。
 metadata:
-  version: "2.2.0"
+  version: "1.0.0"
   language: "ja"
 ---
 
