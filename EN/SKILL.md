@@ -3,7 +3,7 @@ name: power-automate-import-package
 description: Creates a Power Automate import package (.zip) for a non-solution flow from natural-language requirements and data source information. When the requirements are ambiguous, asks questions with options instead of guessing. Generated flows keep the default action names and add notes so that people other than the author can understand the intent. 自然言語の要件から Power Automate のインポート パッケージを作成する。
 compatibility: Requires an environment that can run Python 3 and output zip files. Solution packages and child flows are out of scope.
 metadata:
-  version: "2.2.0"
+  version: "1.0.0"
   language: "en"
 ---
 
