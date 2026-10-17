@@ -86,8 +86,8 @@ Power Automate でインポートしてテスト実行
 
 | ファイル | 版 |
 |---|---|
-| `power-automate-import-package_JP_ver2_2_0.zip` | 日本語版 |
-| `power-automate-import-package_EN_ver2_2_0.zip` | 英語版 |
+| `power-automate-import-package_JP.zip` | 日本語版 |
+| `power-automate-import-package_EN.zip` | 英語版 |
 
 どちらの版でも結果は同じです。読みやすく、管理しやすい言語の版を選んでください。
 
