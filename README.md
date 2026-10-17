@@ -82,8 +82,8 @@ Download the zip for the version you want from the Releases page of this reposit
 
 | File | Version |
 |---|---|
-| `power-automate-import-package_EN_ver2_2_0.zip` | English |
-| `power-automate-import-package_JP_ver2_2_0.zip` | Japanese |
+| `power-automate-import-package_EN.zip` | English |
+| `power-automate-import-package_JP.zip` | Japanese |
 
 Both versions return the same results. Choose the one you want to read and maintain.
 
